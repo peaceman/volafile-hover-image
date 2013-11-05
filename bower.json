@@ -1,0 +1,9 @@
+{
+  "name": "volafile-hover-image",
+  "version": "0.0.0",
+  "dependencies": {
+    "lodash": "~2.2.1",
+    "jquery": "~2.0.3"
+  },
+  "devDependencies": {}
+}
